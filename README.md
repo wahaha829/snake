@@ -1,5 +1,5 @@
 # snake
-貪食蛇遊戲介面如下      
+貪食蛇遊戲與手機操控介面如下      
 <img src="https://github.com/wahaha829/snake/blob/master/%E8%B2%AA%E9%A3%9F%E8%9B%87.png" width="50%" height="50%">     
 預設使用鍵盤WASD控制蛇移動方向，    
 或使用手機連接Arduino上的HC-05藍牙模組後，由Serial Port傳入字元來控制。    
