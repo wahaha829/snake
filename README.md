@@ -1,6 +1,6 @@
 # snake
 貪食蛇遊戲與手機操控介面如下      
-<img src="https://github.com/wahaha829/snake/blob/master/%E8%B2%AA%E9%A3%9F%E8%9B%87.png" width="50%" height="50%">
+<img src="https://github.com/wahaha829/snake/blob/master/%E8%B2%AA%E9%A3%9F%E8%9B%87.png" width="60%" height="60%">
 <img src="https://github.com/wahaha829/snake/blob/master/Screenshot_20201025-205115.jpg" width="18%" height="18%">
 <img src="https://github.com/wahaha829/snake/blob/master/Screenshot_20201025-205027.jpg" width="18%" height="18%">     
 預設使用鍵盤WASD控制蛇移動方向，    
